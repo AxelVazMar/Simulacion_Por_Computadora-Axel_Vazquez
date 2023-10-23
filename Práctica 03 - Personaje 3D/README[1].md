@@ -1,6 +1,6 @@
 # ❌⭕ Personaje 3D ❌⭕
 
-En este proyectomodelé un personaje en 3D usando blender.
+En este proyecto modelé un personaje en 3D usando blender.
 
 
 A continuación, se muestran las capturas de pantalla con el resultado

@@ -1,6 +1,6 @@
 # 💨🔥 Fuego y Humo 🔥💨
 
-En este proyectO se creó una simulación de fuego y humo.
+En este proyecto se creó una simulación de fuego y humo.
 
 
 A continuación, se muestran las capturas de pantalla con el resultado:
